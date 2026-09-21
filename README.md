@@ -28,7 +28,7 @@ En parallèle, je fais avancer plusieurs projets personnels, à découvrir ci-de
 - **[Krenolis](https://github.com/TZnt/Krenolis-showcase)** — SaaS de réservation, planning et
   facturation pour les activités saisonnières. En production sur [krenolis.fr](https://krenolis.fr).
 - **[DronAge](https://github.com/TZnt/DronAge-showcase)** — planificateur de missions de vol drone
-  en 3D pour la photogrammétrie, développé pour EN3D (site hors ligne).
+  en 3D pour la photogrammétrie, développé pour EN3D. En ligne sur [dronage.fr](https://dronage.fr).
 - **[UAS-Mapper](https://github.com/TZnt/UAS-Mapper)** — version allégée et open source de
   DronAge, toujours [en ligne](https://tznt.github.io/UAS-Mapper/).
 - **[Opus 2](http://185.246.84.184/viewer3d-app)** — visualiseur 3D en ligne pour explorer des
