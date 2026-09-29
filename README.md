@@ -31,8 +31,8 @@ En parallèle, je fais avancer plusieurs projets personnels, à découvrir ci-de
   en 3D pour la photogrammétrie. En ligne sur [dronage.fr](https://dronage.fr).
 - **[UAS-Mapper](https://github.com/TZnt/UAS-Mapper)** — version allégée et open source de
   DronAge, toujours [en ligne](https://tznt.github.io/UAS-Mapper/).
-- **[Opus 2](http://185.246.84.184/viewer3d-app)** — visualiseur 3D en ligne pour explorer des
-  modèles issus de relevés photogrammétriques.
+- **[Opus 2](http://185.246.84.184/viewer3d-app)** — visualiseur 3D en ligne pour explorer le relevé
+  LiDAR et les annotations de l'association de l'Oppidum.
 
 Contact : [zanetti.theo@gmail.com](mailto:zanetti.theo@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/theo-zanetti)
